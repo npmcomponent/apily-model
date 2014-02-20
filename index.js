@@ -16,7 +16,7 @@ module.exports = function () {
    * Component dependencies
    */
 
-  var Emitter = require('emitter');
+  var Emitter = require('apily-emitter');
 
   /**
    * @constructor Model
